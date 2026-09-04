@@ -16,18 +16,6 @@ A **dance-themed, visually elegant portfolio website** that blends choreographic
 
 ## Screenshots
 
-### Hero Section
-![Hero Section](assets/images/hero-section.png)
-
-### Education & Metrics
-![Education Section](assets/images/education-section.png)
-
-### Skills & Technical Repertoire
-![Skills Section](assets/images/skills-section.png)
-
-### Projects & Architecture
-![Projects Section](assets/images/projects-section.png)
-
 ### Contact & Creative Expressions
 ![Contact Section](assets/images/contact-section.png)
 
